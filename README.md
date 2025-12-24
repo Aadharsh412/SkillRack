@@ -1,2 +1,0 @@
-# SkillRack
-SkillRack solved problems.
